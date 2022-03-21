@@ -5,13 +5,11 @@ I have a degree in Production Engineering, and I am currently studying Data Scie
 <br>
 I work in the field of data science and machine learning.
 <br>
-
-🔭 I’m currently learning Machine Learning and Data Science.
-😄 Pronouns: she/her
-
 <br>
 You can find me here:
-<br>
-Linkedin - https://www.linkedin.com/in/joellewosiack/
-Gmail - jojoelle.wosiack@gmail.com
-GitHub - https://github.com/JoelleWosiack
+
+<div>
+  <a href="https://www.linkedin.com/in/joellewosiack/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
+  <a href="mailto:jojoelle.wosiack@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_black"></a>
+  <a href="https://github.com/JoelleWosiack" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_black"></a>
+</div>
