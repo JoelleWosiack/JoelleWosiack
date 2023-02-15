@@ -1,7 +1,7 @@
 ### Hi there, I'm Joelle Wosiack! 👋
 
 <br>
-I have a degree in Production Engineering, and I am currently studying Data Science. 
+I have a degree in Production Engineering and in Data Science. 
 <br>
 I work in the field of data science and machine learning.
 <br>
