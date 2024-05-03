@@ -1,7 +1,7 @@
 ### Hi there, I'm Joelle Wosiack! 👋
 
 <br>
-I have a degree in Production Engineering and in Data Science. 
+I have a degree in Production Engineering and in Data Science. Currently a postgraduate student in Data Science and Big Data at the Federal University of Paraná.
 <br>
 I work in the field of data science and machine learning.
 <br>
